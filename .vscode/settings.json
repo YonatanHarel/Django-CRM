@@ -1,0 +1,12 @@
+{
+    "emmet.includeLanguages": {
+        "html": "html"
+    },
+    "emmet.preferences": {
+        "emmet.triggerExpansionOnTab": true,
+        "files.associations": {"*html": "html"},
+        "emmet.useInlineCompletions": true
+    },
+    "html.format.contentUnformatted": "",
+    "html.format.unformatted": ""
+}
